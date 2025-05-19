@@ -2,6 +2,15 @@
 # Zihin Defteri
 
 Zihin Defteri, kişisel notlarınızı ve görevlerinizi kolayca yönetebileceğiniz basit ama işlevsel bir **to-do uygulamasıdır**. Uygulama, kullanıcı dostu arayüzüyle not ekleme, düzenleme, silme ve arama işlemlerini hızlıca yapmanıza olanak tanır.
+<p align="center">
+  <img src="images/Anasayfa.png" width="200"/>
+  <img src="images/AnasayfaArama.png" width="200"/>
+  <img src="images/Detay.png" width="200"/>
+  <img src="images/Kayit.png" width="200"/>
+</p>
+
+
+
 
 ## Özellikler
 
