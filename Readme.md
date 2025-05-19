@@ -1,6 +1,4 @@
 
-
-```markdown
 # Zihin Defteri
 
 Zihin Defteri, kişisel notlarınızı ve görevlerinizi kolayca yönetebileceğiniz basit ama işlevsel bir **to-do uygulamasıdır**. Uygulama, kullanıcı dostu arayüzüyle not ekleme, düzenleme, silme ve arama işlemlerini hızlıca yapmanıza olanak tanır.
@@ -58,7 +56,7 @@ Uygulamayı çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 
 1. Bu projeyi klonlayın:
    ```bash
-   git clone https://github.com/kullanici-adi/zihin-defteri.git
+   git clone https://github.com/Software-Guardians/ZihinDefteriApp.git
    ```
 
 2. Android Studio ile projeyi açın.
@@ -71,7 +69,7 @@ Uygulamayı çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 
 APK dosyasını doğrudan indirip kurmak isterseniz, aşağıdaki bağlantıyı kullanabilirsiniz:
 
-👉 [Zihin Defteri v1.0 APK](https://github.com/kullanici-adi/zihin-defteri/releases) *(bağlantıyı daha sonra seninle birlikte güncelleyebilirim)*
+👉 [Zihin Defteri v1.0 APK](https://github.com/Software-Guardians/ZihinDefteriApp/releases/download/v1.0/toDoAppByEmrullahEnisCetinkaya.apk)
 
 ---
 
@@ -80,7 +78,3 @@ APK dosyasını doğrudan indirip kurmak isterseniz, aşağıdaki bağlantıyı 
 Bu proje açık kaynaklıdır ve `LICENSE` dosyasında belirtilen koşullar altında lisanslanmıştır.
 
 ---
-
-```
-
-
